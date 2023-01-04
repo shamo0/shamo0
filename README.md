@@ -1,4 +1,7 @@
-### Hi there 👋
+### Happy Hacking 
+
+- ⚡ Hack the Box [respect](https://app.hackthebox.com/profile/114221) 
+- ☕️ Buy me a [coffee](https://www.buymeacoffee.com/shamoo0) 
 
 <!--
 **shamo0/shamo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
