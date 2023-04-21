@@ -24,6 +24,7 @@
 - [Banking Trojan Analysis](https://infosecwriteups.com/banking-trojan-analysis-edb374bdb9d9)
 - [hta Malware Analysis](https://infosecwriteups.com/hta-malware-analysis-96bd9263208)
 - [TypoSquatting Malware Analysis](https://infosecwriteups.com/typosquatting-malware-analysis-6e4830268743)
+- [Analyzing Malware using FREE Online tools](https://medium.com/bugbountywriteup/analyzing-malware-using-free-online-tools-e37b56bc3868)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
