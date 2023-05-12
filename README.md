@@ -1,8 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/48299520/232764773-2eceeeb3-71cd-4df0-b007-c692d2c26096.png)
 
 
-<h1 align="center">Hi 👋, I'm Genadi Shamugia</h1>
-<h3 align="center">I'm a Cybersecurity Professional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamo0&label=Profile%20views&color=0e75b6&style=flat" alt="shamo0" /> </p>
 
